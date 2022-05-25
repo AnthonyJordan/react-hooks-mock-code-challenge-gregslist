@@ -41,6 +41,12 @@
       "description": "Treadmill Parts For Free",
       "image": "./images/treadmill.jpg",
       "location": "East Flatbush"
+    },
+    {
+      "description": "It's a chair",
+      "location": "wherever",
+      "image": "https://m.media-amazon.com/images/I/41tCIsGV8UL.jpg",
+      "id": 8
     }
   ]
 }
